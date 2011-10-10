@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3769
+
+You can use the user defined completion (intellisense) in ahk files
+In  insert mode, Input keyword and press <C-X><C-U>. like this
+#a <C-X><C-U>  
+Enjoy !
+
